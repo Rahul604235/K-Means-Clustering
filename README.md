@@ -1,4 +1,4 @@
-# K-Means-Clustering
+# K-Means-Clustering 
 In all the following questions, perform K-means clustering on the two input images (car.ppm
 and flower.png) for K = 3 clusters. Use only Euclidean distance as the distance measure for
 all iterations. Basic data units to be clustered are vectors containing pixel data, i.e., [r g b].
